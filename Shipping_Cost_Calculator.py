@@ -1,4 +1,5 @@
 # Here is a new update by SmartStacks
+# Here is another update by SmartStacks
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
